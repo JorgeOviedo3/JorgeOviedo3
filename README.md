@@ -19,5 +19,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![JorgeOviedo3's github stats](https://github-readme-stats.vercel.app/api?username=jorgeoviedo3&show_icons=true&hide_border=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeoviedo3&layout=compact&langs_count=8&theme=radical"/>
+![](https://raw.githubusercontent.com/jorgeoviedo3/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jorgeoviedo3/stats/master/generated/languages.svg#gh-dark-mode-only)
