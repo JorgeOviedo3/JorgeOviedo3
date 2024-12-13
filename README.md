@@ -3,7 +3,7 @@
 </em></p>
 
 
-> I'm curious, enthusiastic and student most of the time, the rest of the time I just write code.
+> I'm curious, enthusiastic and a student most of the time, the rest of the time I just write code.
 
 **Skills:**  
 
